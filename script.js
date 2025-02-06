@@ -1,4 +1,5 @@
 // JavaScript file for the map 
+console.log("Script is running!"); // Debugging check
 // Step 1: Add Mapbox access token
 mapboxgl.accessToken = 'pk.eyJ1IjoicWl6aGV4dSIsImEiOiJjbTZzbmE1bHcwOWFrMmtvc3M2bWVmd2d6In0.W9AIJnK5UM1GNNwKZIXU2g';
 
